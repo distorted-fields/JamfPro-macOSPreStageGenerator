@@ -10,7 +10,7 @@
 #
 #############################################################
 # Just for fun
-script_title="Electric Default PreStage Generator"
+script_title="Default PreStage Generator"
 echo ""
 echo ""
 cat << "EOF"
@@ -46,8 +46,8 @@ echo ""
 jSON_data="{\"keepExistingSiteMembership\": false,\
   \"enrollmentSiteId\": \"-1\",\
   \"id\": \"1\",\
-  \"displayName\": \"Electric Standard Pre-stage\",\
-  \"supportPhoneNumber\": \"For support please reach out to Electric via Slack\",\
+  \"displayName\": \"Standard Pre-stage\",\
+  \"supportPhoneNumber\": \"For support please reach out via Slack\",\
   \"supportEmailAddress\": \"\",\
   \"department\": \"\",\
   \"mandatory\": true,\
